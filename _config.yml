@@ -6,7 +6,24 @@ rdiscount:
 gems:
   - jekyll-sitemap
 
-name: Zach Holman
-url: http://zachholman.com
-description: A fantastic blog that is fantastic.
-twitter: holman
+name: Springbeats Team Blog
+url: http://blog.springbeats.com
+description: A blog about the latest developments at Springbeats Inc.
+twitter: springbeats
+facebook: springbeats.inc
+youtube: SpringbeatsInc
+
+links:
+  -
+    text: instinct
+    link: http://try.springbeats.com
+  -
+    text: blog
+    link: http://blog.springbeats.com
+  -
+    text: forum
+    link: http://discuss.springbeats.com
+  -
+    text: academy
+    link: http://www.springbeats.com/academy
+
