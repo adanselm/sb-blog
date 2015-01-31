@@ -17,24 +17,12 @@
   src: url('../webfonts/MyriadPro-Semibold.otf');
 }
 
-@font-face
-{
-  font-family: FiraSansRegular;
-  src: url('../webfonts/FiraSans-Regular.otf');
-}
-
-@font-face
-{
-  font-family: FiraSansItalic;
-  src: url('../webfonts/FiraSans-Italic.otf');
-}
-
 body {
   background-image: url('../images/bkg_tile.png');
   background-repeat: repeat;
   margin: 0;
   padding: 0;
-  font-family: 'MyriadProRegular', Helvetica, sans-serif;
+  font-family: 'Raleway', Helvetica, sans-serif;
 }
 
 a {
@@ -199,20 +187,20 @@ h3 {
   width: 800px;
 }
 .content i, .content em {
-  font-family: 'FiraSansItalic';
+  /*font-family: 'FiraSansItalic';*/
   font-style: normal;
 }
 .content b, .content strong {
-  font-family: 'FiraSansRegular';
+  /*font-family: 'FiraSansRegular';*/
   font-weight: normal;
 }
 .content em b {
-  font-family: 'FiraSansItalic';
+  /*font-family: 'FiraSansItalic';*/
   font-weight: normal;
   font-style: normal;
 }
 .content p {
-  font-family: 'FiraSansRegular';
+  /*font-family: 'FiraSansRegular';*/
   font-size: 20px;
   line-height: 160%;
   margin: 25px 0;
