@@ -12,6 +12,7 @@
   }
 
   #logo {
+    float: left;
     clear: none;
   }
 
@@ -32,7 +33,7 @@
   .header {
     height: 93px;
     background-color: #333;
-    margin: -20px;
+    margin: 0 -20px 0 -20px;
   }
   .header a, .header b {
     color: #444;
