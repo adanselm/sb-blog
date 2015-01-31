@@ -1,96 +1,98 @@
-body {
-  padding: 0 20px;
-}
+@media (max-width: 550px) {
 
-.container {
-  width: 100%;
-  overflow-x: visible;
-}
+  body {
+    padding: 0 20px;
+  }
 
-#logo {
-  float: left;
-  clear: none;
-}
+  .container {
+    width: 100%;
+    overflow-x: visible;
+  }
 
-.header {
-  height: 93px;
-  background-color: #333;
-  margin: 0 0 0 0;
-}
-.header a, .header b {
-  color: #444;
-  text-decoration: none;
-}
+  #logo {
+    float: left;
+    clear: none;
+  }
 
-.name {
-}
+  .header {
+    height: 93px;
+    background-color: #333;
+    margin: 0 0 0 0;
+  }
+  .header a, .header b {
+    color: #444;
+    text-decoration: none;
+  }
 
-.name a {
-  font-size: 24px;
-}
+  .name {
+  }
 
-.menu {
-  display: none;
-}
+  .name a {
+    font-size: 24px;
+  }
 
-.recent .hero {
-  width: 100%;
-  margin: inherit;
-}
-.recent .recent-title {
-  font-size: 16px;
-}
-.recent span {
-  display: none;
-}
-.rule {
-  width: 100%;
-}
-.rule hr {
-  display: none;
-}
+  .menu {
+    display: none;
+  }
 
-.social {
-  display: none;
-}
+  .recent .hero {
+    width: 100%;
+    margin: inherit;
+  }
+  .recent .recent-title {
+    font-size: 16px;
+  }
+  .recent span {
+    display: none;
+  }
+  .rule {
+    width: 100%;
+  }
+  .rule hr {
+    display: none;
+  }
 
-.hero {
-  height: 100px;
-  margin: 0 -20px;
-}
+  .social {
+    display: none;
+  }
 
-.content p {
-  font-size: 16px;
-  margin: 15px 0;
-}
-.content li {
-  font-size: inherit;
-}
-.content img, .content blockquote {
-  max-width: 375px !important;
-  margin: 0 -20px !important;
-  padding: 0;
-  border: 0;
-  border-radius: 0 !important;
-}
-.content blockquote {
-  padding: 5px 0;
-}
-.tweet {
-  display: none;
-}
+  .hero {
+    height: 100px;
+    margin: 0 -20px;
+  }
 
-.title {
-  margin: 20px 0px 20px -0px;
-  padding: 10px;
-}
+  .content p {
+    font-size: 16px;
+    margin: 15px 0;
+  }
+  .content li {
+    font-size: inherit;
+  }
+  .content img, .content blockquote {
+    max-width: 375px !important;
+    margin: 0 -20px !important;
+    padding: 0;
+    border: 0;
+    border-radius: 0 !important;
+  }
+  .content blockquote {
+    padding: 5px 0;
+  }
+  .tweet {
+    display: none;
+  }
 
-h1 {
-  border: 0;
-  margin: 0;
-  padding: 0 0 10px 0;
-  font-size: 20px;
-}
+  .title {
+    margin: 20px 0px 20px -0px;
+    padding: 10px;
+  }
+
+  h1 {
+    border: 0;
+    margin: 0;
+    padding: 0 0 10px 0;
+    font-size: 20px;
+  }
 
   h2, h3 {
     font-size: 17px;
@@ -99,35 +101,37 @@ h1 {
     padding-bottom: 0;
   }
 
-.listing a {
-  text-decoration: none;
-}
-.listing span {
-  display: none;
-}
+  .listing a {
+    text-decoration: none;
+  }
+  .listing span {
+    display: none;
+  }
 
-.footer {
-  margin: 50px -20px 0 -20px;
-}
-.footer .twitter-follow {
-  margin: 0 auto;
-  float: inherit;
-}
+  .footer {
+    margin: 50px -20px 0 -20px;
+  }
+  .footer .twitter-follow {
+    margin: 0 auto;
+    float: inherit;
+  }
   .footer .meta {
     margin: 0 auto;
     float: inherit;
   }
-.about-wrapper {
-  height: 200px;
-}
+  .about-wrapper {
+    height: 200px;
+  }
   .about-wrapper .read-more, .about-wrapper .title {
     display: none;
   }
-.about-other {
-  width: 100%;
-  margin-top: 0;
-  padding: 20px 10px;
-}
+  .about-other {
+    width: 100%;
+    margin-top: 0;
+    padding: 20px 10px;
+  }
   .about-other p {
     font-size: 16px;
   }
+
+}
