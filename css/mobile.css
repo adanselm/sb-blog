@@ -17,7 +17,7 @@
   }
 
   #logo img {
-    visibility: hidden;
+    display: none;
   }
 
   #logo a {
