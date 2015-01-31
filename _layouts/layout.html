@@ -27,7 +27,7 @@
 <body>
   <div class="header">
     <div class="container">
-      <div id="logo"><a href="/"><img src="/images/logo.png" /></a></div>
+      <div id="logo"><a href="/" style="background-image: url('{{ site.logo }}');"></a></div>
       <ul class="menu">
       {% for item in site.links %}
         <li><a href="{{ item.link }}">{{ item.text }}</a></li>

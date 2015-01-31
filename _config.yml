@@ -9,6 +9,7 @@ gems:
 name: Springbeats Team Blog
 url: http://blog.springbeats.com
 description: A blog about the latest developments at Springbeats Inc.
+logo: /images/logo.png
 twitter: springbeats
 facebook: springbeats.inc
 youtube: SpringbeatsInc
