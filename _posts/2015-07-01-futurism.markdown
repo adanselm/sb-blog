@@ -1,0 +1,49 @@
+---
+layout: post
+title: Futurism meetup during the Siestes Electroniques music festival
+category: posts
+image: /images/posts/futurism2015.jpg
+---
+
+The "Siestes Electroniques" music festival took place last weekend in our
+hometown of Toulouse. During 4 days, thousands of people come to chill to
+the sound of electronic bands, in a park of the city center.
+
+What interested us even more than drinking while laying down in the grass
+like roman emperors, were the ["Futurism"][futurism official] events happening aside from the stages.
+
+It gathered hundreds of curious amateurs of professionals around a few presentations,
+workshops and demonstrations. Among other activities, you could make music
+with complete strangers through a collaborative music totem,
+solder synth kits, learn how to make your own instruments, how
+to mix, learn about the work of the professionals and artists of the area,
+and finally, take part to our now regular Audio Meetup.
+
+Here is a great video tour of what happened there by Cristian Díaz Briceño
+(you can even see our handsome silhouettes listening very carefully at one point ;) ):
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/jaWZqcGTpA8?rel=0" frameborder="0" allowfullscreen></iframe>
+
+There are more photos to see on the [Futurism Facebook Page][futurism fb].
+
+In my opinion, one of the most interesting thing to witness was how curious
+the public was to all this music and technology mashup. Kids were playing
+with the "draw-your-vinyl" installation or the music totem, and adults were
+really keen to know how to DIY.
+
+It also showed the public that we have great products made in Toulouse, such
+as the [Pianoteq plugin][pianoteq], or the [AudioGaming products][audiogaming].
+
+One presentation featured the founders of the local [Toulouse Fablab][artilect]
+(the first in the country!) and the [London Music Hackspace][lmh]. I really
+hope that collaborations will emerge and that we will witness the birth
+of the "Toulouse Music Hackspace"!
+
+---
+
+[futurism official]: http://www.les-siestes-electroniques.com/Rencontres-Futurism
+[futurism fb]: https://www.facebook.com/FuturismToulouse
+[pianoteq]: https://www.pianoteq.com/
+[audiogaming]: http://www.audiogaming.net/
+[artilect]: http://www.artilect.fr/
+[lmh]: http://musichackspace.org/
