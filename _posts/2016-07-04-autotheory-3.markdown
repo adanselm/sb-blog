@@ -7,7 +7,7 @@ image: /images/posts/autotheory3trial.jpg
 
 Music theory can be a little bit scary for learning musicians and producers.
 The goal of [AutoTheory][mozaicbeats] has always been to make it more
-accessible to everyone. In this quest for accessibility, the teams being
+accessible to everyone. In this quest for accessibility, the teams behind
 AutoTheory designed a new interface for the app, that we brought to life
 here at Springbeats.
 
@@ -36,9 +36,9 @@ You can buy it directly from [the official website][at purchase] or from
 [plugin boutique][plugin boutique].
 
 But wait, there is more!
-If you would like to try things out before buying, we also made a trial version
-with limited features, but including an integrated sampler. Which means you
-don't even have to configure anything, it has integrated sounds (which will
+If you would like to try things out before buying, we also made a trial version.
+It has an integrated sampler, which means you don't even have to configure
+anything, since it already includes sounds (which will
 automatically be downloaded the first time you run it). It is the perfect way
 to discover the different scales and playing modes, without worrying about
 anything technical.
