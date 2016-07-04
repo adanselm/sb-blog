@@ -1,4 +1,3 @@
-markdown: rdiscount
 permalink: /posts/:title
 rdiscount:
   extensions: [smart]
@@ -21,9 +20,6 @@ links:
   -
     text: blog
     link: http://blog.springbeats.com
-  -
-    text: forum
-    link: http://discuss.springbeats.com
   -
     text: academy
     link: http://www.springbeats.com/index.php/academy/academy/
