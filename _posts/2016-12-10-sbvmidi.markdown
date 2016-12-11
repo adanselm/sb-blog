@@ -1,0 +1,50 @@
+---
+layout: post
+title: Springbeats Free Virtual MIDI Cable
+category: posts
+image: /images/posts/virtual_midi_cable.jpg
+---
+
+A few months ago we released our very own [Virtual MIDI Cable Driver][sbvmidi]
+for Microsoft Windows.
+
+Some users quickly reported that it was not recognized on the latest
+versions of Windows 10 (build 1607), because Microsoft now
+[requires a different certification level][win10signing]
+than the one we had. We're now proud to announce that we did what was
+required from Microsoft to solve the problem, and that is now working very
+well on those systems too :)
+
+So if you had downloaded the previous version and encountered this kind of
+error:
+
+![Windows Signature Error](/images/posts/driver_signature_bug.png)
+
+Be sure to [checkout the latest release][sbvmidi]. Uninstall the previous version,
+and install this one instead.
+
+## But what does Springbeats Virtual MIDI Cable do exactly?
+
+Glad you asked. It's a Windows driver which installs 8 new MIDI devices on
+your system. Each of this device can be used to carry MIDI data from one
+application to the other. Just like a cable would do if you were dealing
+with hardware instead of software.
+
+A typical example would be to route MIDI notes from your MIDI controller,
+that were first transformed by an application, to your DAW.
+You'd then be able to record the transformed notes. This is how
+[AutoTheory][mozaicbeats] works for instance. It takes the notes from your
+USB MIDI keyboard, changes them, and lets you get these changes in another app,
+via our Virtual MIDI Cable.
+
+The good thing is : it's totally free for personal uses!
+More than that, it is also opensource. The only restriction being you can't
+embed it with your own app if you're a developer, without our agreement.
+
+Checkout the [product page][sbvmidi] to read more and download.
+
+---
+
+[mozaicbeats]: http://autotheory.net
+[sbvmidi]: https://www.springbeats.com/sbvmidi
+[win10signing]: https://blogs.msdn.microsoft.com/windows_hardware_certification/2016/07/26/driver-signing-changes-in-windows-10-version-1607/
