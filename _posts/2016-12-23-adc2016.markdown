@@ -1,0 +1,61 @@
+---
+layout: post
+title: Audio Developer Conference 2016
+category: posts
+image: /images/posts/2016_english_breakfast.jpg
+---
+
+Last November, we attended the [Audio Developer Conference][adc16] in Goldsmiths
+University of London. It is an event organized by the company behind the JUCE
+library that we, at Springbeats, use to develop audio applications for our
+clients and for ourselves. Two days of conference on topics related to audio
+programming, right in central London, which, by the way, is a pretty cold
+place to live in ;)
+
+![Where is Waldo?](/images/posts/2016_adc3.jpg)
+
+## Clear trends
+
+If you look at the [program][adc-program], you'll probably notice for yourself
+the trends of this year:
+
+  * Machine Learning
+  * Embedded systems
+  * Embracing new techs / practices / standards
+
+It is funny to see how machine learning invades every field, even sound related
+ones where you might not expect it. The demos that were made looked pretty
+convincing so I'm guessing many companies will start integrating this type
+of technologies in their products in the coming year.
+
+Embedded and mobile systems seem to have reached a more mature state, where
+the latency and power restrictions no longer hinder the possibilities in terms
+of mobile audio.
+
+Not really a new trend, but we also see the expressiveness of controllers
+improve over the years. Roger Linn stated it in his talk, and the products
+from ROLI are a good demonstration as well.
+
+![Roger Linn playing a Linnstrument](/images/posts/2016_adc2.jpg)
+
+## Overall impression
+
+The organization was flawless, and the event gathered twice more attendants
+than last year, with all the big names of the industry, and many many
+small developers like us.
+
+My general impression of the talks was that they did not go into enough
+technical details for my taste, probably because of the allowed duration for each talk.
+I heard from small developers, and it was my impression too, that there was
+not much material for plugin developers.
+
+But in the end, I'm curious to see how it evolves, and will want to go back
+next year for sure :) .
+
+Part of the talks are now [available on YouTube][adc-youtube].
+
+---
+
+[adc16]: https://www.juce.com/adc-2016
+[adc-program]: https://www.juce.com/adc-2016#program
+[adc-youtube]: https://www.youtube.com/playlist?list=PLe2skUvADfhvdGBMR4jOwEsIPOZMO23wV
